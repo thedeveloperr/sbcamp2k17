@@ -1,2 +1,5 @@
 # sbcamp2k17
-My practice code I wrote 
+https://github.com/thedeveloperr/boardjs/
+https://github.com/thedeveloperr/social-leaderboard/tree/develop
+https://github.com/thedeveloperr/notice-app-practice/
+https://github.com/thedeveloperr/promise-bluebird-regex-fs 
